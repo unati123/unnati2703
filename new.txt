@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Hiiiunnati1234
-=======
-HiiiSandy
->>>>>>> c5311ded864cabe394f3e472229ff0109cc22365
+THis is beginning of project
